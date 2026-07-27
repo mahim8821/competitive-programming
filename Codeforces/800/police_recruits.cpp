@@ -32,4 +32,5 @@ int main()
     cout << "farhad" << endl;
     cout << crime << endl;
     return 0;
+    
 }
