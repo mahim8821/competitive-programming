@@ -27,7 +27,9 @@ int main()
         }
     }
 
-    cout << "farahad" << endl;
+    cout << "mahadi" << endl;
+
+    cout << "farhad" << endl;
     cout << crime << endl;
     return 0;
 }
