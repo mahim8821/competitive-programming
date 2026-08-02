@@ -6,7 +6,7 @@ int main()
     cin>>n;
     while (n--)
     {
-        if 
+        //if 
     }
     
 }

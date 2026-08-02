@@ -26,11 +26,6 @@ int main()
             police = police + m[i];
         }
     }
-
-    cout << "mahadi" << endl;
-
-    cout << "farhad" << endl;
     cout << crime << endl;
     return 0;
-    
 }
